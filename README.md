@@ -1,4 +1,4 @@
-# Space Shooter Game 🎮
+# Space invader Game 🎮
 
 A simple Space Invaders–style game built with **Python** and **Pygame**.  
 You control a tank at the bottom of the screen, shoot bullets to destroy alien enemies, and try to survive as long as possible.
